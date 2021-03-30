@@ -1,5 +1,14 @@
 # C-CHVAE-Pytorch
-The reproduction of [c-chvae](https://github.com/MartinPawel/c-chvae).
+
+Counterfactual explanation is the meaningful and minimum perturbation for an input that can alter the original prediction by a machine learning model, usually from an undesirable prediction to a desirable one. In this repo, I plan to reproduce the implementation of C-CHVAE [WWW2020](https://github.com/MartinPawel/c-chvae) on PyTorch platform. The official implementation works on Tensorflow.  Thanks for Martin providing the test file to me which help me understand the algorithms.
+
+## Getting start
+
+
+## Usage
+
+
+## Demo
 
 
 ## Bibtex
